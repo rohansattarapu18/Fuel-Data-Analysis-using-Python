@@ -1,4 +1,4 @@
-```markdown
+
 # Fuel Economy Data Analysis Project
 
 This project involves analyzing fuel economy data for the years 2008 and 2018. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to understand the trends and patterns in vehicle fuel efficiency over a decade.
@@ -113,12 +113,11 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
 
 ### Example Project Structure
 Ensure your project has a clear and organized structure. Here is an example:
 
-```
 fuel-economy-analysis/
 │
 ├── data/
@@ -130,4 +129,4 @@ fuel-economy-analysis/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-```
+
