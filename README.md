@@ -111,22 +111,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a pull request
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-### Example Project Structure
-Ensure your project has a clear and organized structure. Here is an example:
-
-fuel-economy-analysis/
-│
-├── data/
-│   ├── all_alpha_08.csv
-│   ├── all_alpha_18.csv
-│   ├── clean_08.csv
-│   └── clean_18.csv
-├── Fuel_Economy_Analysis_Project.ipynb
-├── requirements.txt
-├── LICENSE
-└── README.md
 
